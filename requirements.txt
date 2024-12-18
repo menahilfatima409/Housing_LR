@@ -1,6 +1,3 @@
-streamlit
 pandas
-train_test_split
-LinearRegression
-mean_squared_error
-r2_score
+scikit-learn
+streamlit
