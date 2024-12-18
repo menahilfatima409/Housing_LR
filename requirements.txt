@@ -1,5 +1,6 @@
 streamlit
 pandas
-sklearn.model_selection
-sklearn.linear_model
-sklearn.metrics
+train_test_split
+LinearRegression
+mean_squared_error
+r2_score
